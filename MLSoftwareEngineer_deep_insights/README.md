@@ -1,3 +1,4 @@
+### Pattern matching across multiple text files
 The folder contains the 2 python files:
 
 - find_all_words.py -> used to find a given source_text from a sorce file.
